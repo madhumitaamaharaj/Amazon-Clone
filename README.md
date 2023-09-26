@@ -1,9 +1,6 @@
 ## Amazon Clone Project
 This is a simple Amazon Clone project created using HTML and CSS. It serves as a demonstration of web development skills and does not include any backend functionality or payment processing. The project focuses on replicating the Amazon website's user interface.
 
-## Project Overview
-TagView Assignment Project is for managing and visualizing a hierarchical tag structure.
-
 ## Features
 1) Landing page that resembles the Amazon homepage.
 2) Navigation menu with links to different sections.
