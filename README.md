@@ -15,13 +15,11 @@ To run the Amazon Clone Project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/madhumitaamaharaj/Amazon-Clone.git
 
-Install node modules.(npm i) npm start
+To view the Amazon Clone project, open the index.html file in web browser. 
 
 ## Deployment Link-
 https://madhumitaamaharaj.github.io/Amazon-Clone/
 
-## Usage
-To view the Amazon Clone project, open the index.html file in web browser. 
 
 ## Acknowledgments
 This project was inspired by the Amazon website.
