@@ -239,7 +239,7 @@ background-color:white;
     background-color: #f1f1f1;
     padding: 20px;
     text-align: center;
-    margin-top: 320px; 
+    margin-top: 10px; 
 }
 
 .section-3 p {
@@ -352,3 +352,85 @@ background-color:white;
     color: #222;
     font-size: 10px;
 }
+
+@media screen and (max-width: 768px) {
+    .nav-logo {
+        width: 80px;
+        height: 40px;
+    }
+
+    .nav-delicon {
+        font-size: 14px;
+    }
+
+    .select-search {
+        width: 100%;
+    }
+
+    .search-input {
+        width: 80%;
+    }
+
+    .nav-account,
+    .nav-cart {
+        font-size: 14px;
+    }
+
+    .panel-all {
+        font-size: 18px;
+    }
+
+    .panel-option {
+        display: none;
+    }
+
+    .hero-section {
+        height: auto;
+    }
+
+    .carousel-container {
+        height: 300px;
+    }
+
+    .hero-msg {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    .shop-section {
+        flex-direction: column;
+    }
+
+    .box {
+        width: 100%;
+        margin: 10px 0;
+        padding: 20px 0 8px;
+    }
+
+    .box-img {
+        height: auto;
+    }
+
+    .box-container {
+        margin: 0;
+    }
+
+    .section-1 {
+        margin-top: 20px;
+    }
+
+    .section-1 .section-1-container .product-card {
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    .section-1 .section-1-container .product-card img {
+        max-width: 100%;
+    }
+
+    .section-2 .section-2-container .product-detail-card {
+        width: 100%;
+    }
+}
+
+
