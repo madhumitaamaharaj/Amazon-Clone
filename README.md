@@ -13,7 +13,7 @@ HTML , CSS
 ## Installation
 To run the Amazon Clone Project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/madhumitaamaharaj/Amazon-Clone.git
+Clone the repository: git clone https://github.com/madhumitaamaharaj/Amazon-Clone/tree/amazon-landingpage
 
 To view the Amazon Clone project, open the index.html file in web browser. 
 
