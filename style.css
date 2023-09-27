@@ -233,28 +233,30 @@ background-color:white;
 .box-container p{
     color:#007185;
 }
-.spacer {
-    flex-grow: 1;
-}
 
-.section-4 {
+
+.section-1 {
     background-color: #f1f1f1;
     padding: 20px;
     text-align: center;
+    margin-top: 1220px; 
 }
 
-.section-4 p {
-    font-size: 1.2rem;
+.section-1 p {
+    font-size: 0.85rem;
     margin: 10px 0;
 }
-
-.section-4 button {
+.section-1 a{
+    color: #007185;
+}
+.section-1 button {
     background-color: #ff9900;
     color: #fff;
     border: none;
     padding: 10px 20px;
     font-size: 1rem;
     cursor: pointer;
+    border-radius: 8px;
 }
 .site-footer {
     clear: both;
@@ -263,7 +265,7 @@ background-color:white;
     color: white;
     padding: 10px 0;
     position: relative; 
-    margin-top: 1020px;
+    margin-top: 5px;
 }
 
 
