@@ -18,6 +18,7 @@ Clone the repository: git clone https://github.com/madhumitaamaharaj/Amazon-Clon
 Install node modules.(npm i) npm start
 
 ## Deployment Link-
+https://madhumitaamaharaj.github.io/Amazon-Clone/
 
 ## Usage
 To view the Amazon Clone project, open the index.html file in web browser. 
